@@ -1,4 +1,4 @@
-# SQL Assignment, CMSC724, Spring 2016
+# SQL Assignment, CMSC724, Spring 2017
 
 *The assignment is to be done by yourself.*
 
