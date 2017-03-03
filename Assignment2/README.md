@@ -13,7 +13,7 @@ chains of these operations.
 
 Spark can be used with the Hadoop ecosystem, including the HDFS file system and the YARN resource manager. 
 
-We have provided a IPython Notebook that explains some of the key operations in Spark. You will need to load it using 'nbviewer': [NBViewer](http://nbviewer.jupyter.org/github/umddb/cmsc424-fall2016/tree/master/project5/), to be able to see the drawings.
+We have provided a IPython Notebook that explains some of the key operations in Spark. You will need to load it using 'nbviewer': [NBViewer](http://nbviewer.jupyter.org/github/umddb/CMSC724-Spring17/tree/master/Assignment2), to be able to see the drawings.
 
 ### Installing Spark
 
